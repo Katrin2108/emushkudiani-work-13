@@ -21,4 +21,3 @@ console.log ("it runs on")
 const computerBuyingYear="2021";
 const currentYear="2023";
 console.log("and I've been using it for 2 year");
-
